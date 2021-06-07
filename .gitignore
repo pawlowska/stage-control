@@ -1,4 +1,5 @@
 .ipynb_checkpoints/*
+SPAD_photoncounting/*
 .ipynb_checkpoints/Point_by_point-checkpoint.ipynb
 data/*
 *.npy
